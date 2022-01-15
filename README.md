@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shreeyam
+- 👋 Hi, I’m Nano
 - 👀 I’m interested in learning AI, ML, DSA and robotics
 - 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on games
